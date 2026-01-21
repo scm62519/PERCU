@@ -1,2 +1,2 @@
-# PERCU
-PERCU is the first benchmark specifically designed to evaluate the personalized capabilities of multimodal agents on computer use tasks.
+# PERCU: Benchmarking Multimodal Agents on Personalized Computer Use Tasks
+The dataset and code are described in the paper: "PERCU: Benchmarking Multimodal Agents on Personalized Computer Use Tasks". PERCU is the first benchmark specifically designed to evaluate the personalized capabilities of multimodal agents on computer use tasks. The dataset used for evaluation can be downloaded from this link: https://pan.baidu.com/s/1_n5M5cX7sK5ZIzfNRSclxQ?pwd=qkr4.
